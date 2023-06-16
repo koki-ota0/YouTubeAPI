@@ -1,0 +1,16 @@
+requests
+numpy==1.21.0
+pandas
+google-api-python-client
+networkx
+matplotlib
+scikit-learn
+community
+python-louvain
+seaborn
+time
+windsound
+wordcloud
+janome
+langdetect
+bs4
